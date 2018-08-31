@@ -8,7 +8,7 @@ QT       += core gui multimedia multimediawidgets
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = untitled5
+TARGET = MediaPlayer
 TEMPLATE = app
 
 # The following define makes your compiler emit warnings if you use
